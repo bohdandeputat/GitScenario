@@ -1,0 +1,2 @@
+# GitScenario
+# Add gitignore - Specifies intentionally untracked files to ignore.
