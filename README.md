@@ -8,4 +8,3 @@
     - Learn git-diff - Show changes between commits, commit and working tree, etc.
     - Learn git-checkout - Restore working tree files.
     - Learn git-reset - Reset current HEAD to the specified state.
-    - Learn git-revert - Add new line for new Revert commit.
