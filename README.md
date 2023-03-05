@@ -5,3 +5,4 @@
     - Learn git-rm - Remove files from the working tree and from the index
     - Learn git-mv - Move or rename a file test.txt README.md
     - Learn git-show - Show various types of objects.
+    - Learn git-diff - Show changes between commits, commit and working tree, etc.
