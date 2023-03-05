@@ -6,3 +6,5 @@
     - Learn git-mv - Move or rename a file test.txt README.md
     - Learn git-show - Show various types of objects.
     - Learn git-diff - Show changes between commits, commit and working tree, etc.
+    - Learn git-checkout - Restore working tree files.
+    - Learn git-reset - Reset current HEAD to the specified state.
