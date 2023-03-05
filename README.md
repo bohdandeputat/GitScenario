@@ -13,7 +13,8 @@
     - Learn git-revert - Revert some existing commits add new line for new Revert commit.
 
     Part II - Learn basic Branching and Merging operations.
-    - Learn git-branch - List, create, or delete branches.
+    - Learn git-branch - List, create, rename or delete branches.
+    - Learn git-merge - Join two or more development histories together
 
     
     

@@ -5,3 +5,5 @@ Let's learn git-branch - List, create, or delete branches using master->develop.
     git git checkout -b testbranch
     git branch -D testbranch
     git branch -m master main
+
+Let's learn git-merge - Join two or more development histories together
