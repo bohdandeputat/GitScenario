@@ -12,6 +12,8 @@
     - Learn git-reset - Reset current HEAD to the specified state.
     - Learn git-revert - Revert some existing commits add new line for new Revert commit.
 
-    Part II - Learn basic local branch operations.
+    Part II - Learn basic Branching and Merging operations.
+    - Learn git-branch - List, create, or delete branches.
+
     
     

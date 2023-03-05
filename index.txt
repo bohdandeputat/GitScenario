@@ -1,0 +1,4 @@
+Part II - Learn basic Branching and Merging operations.
+
+Let's learn git-branch - List, create, or delete branches using master->develop.
+    git branch develop
