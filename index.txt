@@ -10,4 +10,9 @@ Let's learn git-merge - Join two or more development histories together
 
 Let's learn git-merge - Resolving Conflicts
 	git-merge: Resolve merging conflicts in the develop branch.
-    
+
+
+
+
+ Let's learn git-clone - Clone a repository into a new directory
+	git clone [--template=<template-directory>] 
