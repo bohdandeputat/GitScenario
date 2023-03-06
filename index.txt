@@ -18,3 +18,5 @@ Let's learn git-remote - Manage set of tracked repositories.
     git remote -v
     git git remote add [-t <branch>]
     
+Let's learn git-pull - Fetch from and integrate with another repository or a local branch
+    git pull [<options>] [<repository> [<refspec>…​]]
