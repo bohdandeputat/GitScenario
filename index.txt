@@ -9,4 +9,5 @@ Let's learn git-branch - List, create, or delete branches using master->develop.
 Let's learn git-merge - Join two or more development histories together
 
 Let's learn git-merge - Resolving Conflicts
-	git-merge: Creating a conflicting of changes in the master branch.
+	git-merge: Resolve merging conflicts in the develop branch.
+    
