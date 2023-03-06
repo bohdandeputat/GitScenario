@@ -11,3 +11,10 @@ Let's learn git-merge - Join two or more development histories together
 Let's learn git-merge - Resolving Conflicts
 	git-merge: Resolve merging conflicts in the develop branch.
     
+
+Part III - Learn Sharing and Updating Projects
+
+Let's learn git-remote - Manage set of tracked repositories.
+    git remote -v
+    git git remote add [-t <branch>]
+    
