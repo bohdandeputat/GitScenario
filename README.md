@@ -15,6 +15,7 @@
     Part II - Learn basic Branching and Merging operations.
     - Learn git-branch - List, create, rename or delete branches.
     - Learn git-merge - Join two or more development histories together
+    - Learn git-merge - Resolving Conflicts
 
     
     
