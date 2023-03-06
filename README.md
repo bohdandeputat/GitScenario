@@ -17,5 +17,9 @@
     - Learn git-merge - Join two or more development histories together
     - Learn git-merge - Resolving Conflicts
 
+    Part III - Learn Sharing and Updating Projects.
+    - Learn git-remote - Manage set of tracked repositories.
+    - Learn git-clone - Clone a repository into a new directory
+    - Learn git-pull - Fetch from and integrate with another repository or a local branch.
     
     
